@@ -14,16 +14,18 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
     - [Neural Scene Representation](#neural-scene-representation)
     - [Motion Transfer](#motion-transfer)
     - [Pose Estimation](#pose-estimation)
-- [Tools](#tools)
 - [Labs and Groups](#labs-and-groups)
+- [Related Resources](#related-resources)
 
 ## Labs and Groups
 - [REAL VIRTUAL HUMANS](http://virtualhumans.mpi-inf.mpg.de/)
 - [State Key Lab of CAD & CG, Zhejiang University](http://www.cad.zju.edu.cn/)
 - [Facebook Reality Labs](https://tech.fb.com/ar-vr/)
 
-## Tools
-
+## Related Resources
+- [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
+- [Awesome NeRF](https://github.com/yenchenlin/awesome-NeRF)
+- [Human Digitalization with Implicit Representation](https://project-splinter.github.io/)
 
 ## Papers
 ### 3D Human Reconstruction
@@ -34,6 +36,19 @@ SIGGRAPH 2021. [[Paper](https://arxiv.org/abs/2105.01794)][[Project](https://peo
 **SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks**<br>
 *Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black*<br>
 CVPR 2021 (oral). [[Paper](https://arxiv.org/abs/2104.03313)][[Project](https://scanimate.is.tue.mpg.de/)]
+
+
+**ARCH: Animatable Reconstruction of Clothed Humans**<br>
+*Zeng Huang, Yuanlu Xu, Christoph Lassner, Hao Li, Tony Tung*<br>
+CVPR 2020. [[Paper](https://arxiv.org/abs/2004.04572)][[Project](https://vgl.ict.usc.edu/Research/ARCH/)]
+
+**PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization**<br>
+*Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo*<br>
+CVPR 2020 (Oral). [[Paper](https://arxiv.org/abs/2004.00452)][[Project](https://shunsukesaito.github.io/PIFuHD/)][[Github](https://github.com/facebookresearch/pifuhd)]
+
+**PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization**<br>
+*Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li*<br>
+ICCV 2019. [[Paper](https://arxiv.org/abs/1905.05172)][[Project](https://shunsukesaito.github.io/PIFu/)][[Github](https://github.com/shunsukesaito/PIFu)]
 
 ### Neural Scene Representation
 
