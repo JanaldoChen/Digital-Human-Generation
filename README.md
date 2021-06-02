@@ -1,2 +1,80 @@
-# Digital-Human-Generation
+# <p align=center>`Digtal Human Generation`</p>
 A collection of resources on Digtal Human Generation
+
+markdown format:
+``` markdown
+**Here is the Paper Name.**<br>
+*[Author 1](homepage), Author 2, and Author 3.*<br>
+Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
+```
+
+## Table of Contents
+- Papers
+    - [3D Human Reconstruction](#3d-human-reconstruction)
+    - [Neural Scene Representation](#neural-scene-representation)
+    - [Motion Transfer](#motion-transfer)
+    - [Pose Estimation](#pose-estimation)
+- Tools
+- Labs
+
+
+## Papers
+### 3D Human Reconstruction
+
+### Neural Scene Representation
+
+**Animatable Neural Radiance Fields for Human Body Modeling**<br>
+*Sida Peng, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, Xiaowei Zhou*<br>
+Arxiv 2021.[[Paper](https://arxiv.org/abs/2105.02872)][[Project](https://zju3dv.github.io/animatable_nerf/)]
+
+**Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans**<br>
+*Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou*<br>
+CVPR 2021.[[Paper](https://arxiv.org/abs/2012.15838)][[[Project](https://zju3dv.github.io/neuralbody/)]
+
+**ST-NeRF: Editable Free-viewpoint Video Using a Layered Neural Representation.**<br>
+*Jiakai Zhang, Xinhang Liu, Xinyi Ye, Fuqiang Zhao, Yanshun Zhang, Minye Wu, Yingliang Zhang, Lan Xu, Jingyi Yu.*<br>
+SIGGRAPH 2021. [[Paper](https://arxiv.org/abs/2104.14786)][[Project](https://frankzhang0309.github.io/st-nerf/)][[Video](https://www.youtube.com/watch?v=Wp4HfOwFGP4)]
+
+**NeX: Real-time View Synthesis with Neural Basis Expansion**<br>
+*Suttisak Wizadwongsa, Pakkapon Phongthawee, Jiraphon Yenphraphai, Supasorn Suwajanakorn*<br>
+CVPR 2021 (Oral). [[Paper](https://arxiv.org/abs/2103.05606)][[Project](https://nex-mpi.github.io/)][[Github](https://github.com/nex-mpi/nex-code/)]
+
+**Nerfies: Deformable Neural Radiance Fields**<br>
+*Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo Martin-Brualla*<br>
+CVPR 2021. [[Paper](https://arxiv.org/abs/2011.12948)][[Project](https://nerfies.github.io/)][[Video](https://www.youtube.com/watch?v=MrKrnHhk8IA)][[Github](https://github.com/google/nerfies)]
+
+**Neural Sparse Voxel Fields**<br>
+*[Lingjie Liu](https://lingjie0206.github.io/), Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt.*<br>
+NeurIPS 2020 (Spotlight). [[Paper](https://arxiv.org/abs/2007.11571)][[Project](https://lingjie0206.github.io/papers/NSVF/)][[Github](https://github.com/facebookresearch/NSVF)]
+
+**X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation**<br>
+*Mojtaba Bemana, Karol Myszkowski, Hans-Peter Seidel, Tobias Ritschel*<br>
+SIGGRAPH Asia 2020. [[Paper](https://arxiv.org/abs/2010.00450)][[Project](http://xfields.mpi-inf.mpg.de/)][[Demo](http://xfields.mpi-inf.mpg.de/demo/webgl.html)][[Github](https://github.com/m-bemana/xfields)]
+
+**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**<br>
+*Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*<br>
+ECCV 2020 (Oral) Best Paper Honorable Mention.[[Paper](https://arxiv.org/abs/2003.08934)][[Project](https://www.matthewtancik.com/nerf)][[Github](https://github.com/bmild/nerf)]
+
+**Neural Volumes: Learning Dynamic Renderable Volumes from Images.**<br>
+*Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh.*<br>
+SIGGRAPH 2019. [[Paper](https://arxiv.org/abs/1906.07751)][[Project](https://stephenlombardi.github.io/projects/neuralvolumes/)]
+
+### Motion Transfer
+
+**High-Fidelity Neural Human Motion Transfer from Monocular Video**<br>
+*Moritz Kappel, Vladislav Golyanik, Mohamed Elgharib, Jann-Ole Henningson, Hans-Peter Seidel, Susana Castillo, Christian Theobalt, Marcus Magnor*<br>
+CVPR 2021 (Oral).[[Paper](https://arxiv.org/abs/2012.10974)][[Project](https://graphics.tu-bs.de/publications/kappel2020high-fidelity)][[Github](https://github.com/MoritzKappel/HF-NHMT)]
+
+### Pose Estimation
+
+**SimPoE: Simulated Character Control for 3D Human Pose Estimation**<br>
+*Ye Yuan, Shih-En Wei, Tomas Simon, Kris Kitani, Jason Saragih*<br>
+CVPR 2021 (Oral). [[Paper](https://arxiv.org/abs/2104.00683)][[Project](https://www.ye-yuan.com/simpoe/)]
+
+**Monocular Expressive Body Regression through Body-Driven Attention**<br>
+*Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas, Michael J. Black*<br>
+ECCV 2020. [[Paper](https://arxiv.org/abs/2008.09062)][[Project](https://expose.is.tue.mpg.de/)]
+
+**VIBE: Video Inference for Human Body Pose and Shape Estimation**<br>
+*Muhammed Kocabas, Nikos Athanasiou, Michael J. Black*<br>
+CVPR 2020. [[Paper](https://arxiv.org/abs/1912.05656)][[Github](https://github.com/mkocabas/VIBE)]
