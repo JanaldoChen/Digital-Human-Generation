@@ -19,6 +19,7 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 
 ## Labs and Groups
 - [REAL VIRTUAL HUMANS](http://virtualhumans.mpi-inf.mpg.de/)
+- [Graphics, Vision & Video](http://gvv.mpi-inf.mpg.de/index.html)
 - [State Key Lab of CAD & CG, Zhejiang University](http://www.cad.zju.edu.cn/)
 - [Facebook Reality Labs](https://tech.fb.com/ar-vr/)
 
@@ -29,6 +30,7 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 
 ## Papers
 ### 3D Human Reconstruction
+
 **Real-time Deep Dynamic Characters**<br>
 *Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt*<br>
 SIGGRAPH 2021. [[Paper](https://arxiv.org/abs/2105.01794)][[Project](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-ddc/)]
@@ -37,6 +39,17 @@ SIGGRAPH 2021. [[Paper](https://arxiv.org/abs/2105.01794)][[Project](https://peo
 *Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black*<br>
 CVPR 2021 (oral). [[Paper](https://arxiv.org/abs/2104.03313)][[Project](https://scanimate.is.tue.mpg.de/)]
 
+**SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements**<br>
+*Qianli Ma, Shunsuke Saito, Jinlong Yang, Siyu Tang, Michael J. Black*<br>
+CVPR 2021. [[Paper](https://arxiv.org/abs/2104.07660)][[Project](https://qianlim.github.io/SCALE)]
+
+**PaMIR: Parametric Model-Conditioned Implicit Representation for Image-based Human Reconstruction**<br>
+*Zerong Zheng, Tao Yu, Yebin Liu, Qionghai Dai*<br>
+TPAMI 2021. [[Paper](https://arxiv.org/abs/2007.03858)][[Project](http://www.liuyebin.com/pamir/pamir.html)]
+
+**Learning to Dress 3D People in Generative Clothing**<br>
+*Qianli Ma, Jinlong Yang, Anurag Ranjan, Sergi Pujades, Gerard Pons-Moll, Siyu Tang, Michael. J. Black*<br>
+CVPR 2020. [[Paper](https://arxiv.org/abs/1907.13615)][[Project](https://cape.is.tue.mpg.de/)][[Github](https://github.com/QianliM/CAPE)]
 
 **ARCH: Animatable Reconstruction of Clothed Humans**<br>
 *Zeng Huang, Yuanlu Xu, Christoph Lassner, Hao Li, Tony Tung*<br>
@@ -49,6 +62,10 @@ CVPR 2020 (Oral). [[Paper](https://arxiv.org/abs/2004.00452)][[Project](https://
 **PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization**<br>
 *Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li*<br>
 ICCV 2019. [[Paper](https://arxiv.org/abs/1905.05172)][[Project](https://shunsukesaito.github.io/PIFu/)][[Github](https://github.com/shunsukesaito/PIFu)]
+
+**Tex2Shape: Detailed Full Human Body Geometry From a Single Image**<br>
+*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor*<br>
+ICCV 2019. [[Paper](https://arxiv.org/abs/1904.08645)][[Project](http://virtualhumans.mpi-inf.mpg.de/tex2shape/)][[Github](https://github.com/thmoa/tex2shape)]
 
 ### Neural Scene Representation
 
