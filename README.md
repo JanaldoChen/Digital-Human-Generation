@@ -9,26 +9,40 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 ```
 
 ## Table of Contents
-- Papers
+- [Papers](#papers)
     - [3D Human Reconstruction](#3d-human-reconstruction)
     - [Neural Scene Representation](#neural-scene-representation)
     - [Motion Transfer](#motion-transfer)
     - [Pose Estimation](#pose-estimation)
-- Tools
-- Labs
+- [Tools](#tools)
+- [Labs and Groups](#labs-and-groups)
+
+## Labs and Groups
+- [REAL VIRTUAL HUMANS](http://virtualhumans.mpi-inf.mpg.de/)
+- [State Key Lab of CAD & CG, Zhejiang University](http://www.cad.zju.edu.cn/)
+- [Facebook Reality Labs](https://tech.fb.com/ar-vr/)
+
+## Tools
 
 
 ## Papers
 ### 3D Human Reconstruction
+**Real-time Deep Dynamic Characters**<br>
+*Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt*<br>
+SIGGRAPH 2021. [[Paper](https://arxiv.org/abs/2105.01794)][[Project](https://people.mpi-inf.mpg.de/~mhaberma/projects/2021-ddc/)]
+
+**SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks**<br>
+*Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black*<br>
+CVPR 2021 (oral). [[Paper](https://arxiv.org/abs/2104.03313)][[Project](https://scanimate.is.tue.mpg.de/)]
 
 ### Neural Scene Representation
 
 **Animatable Neural Radiance Fields for Human Body Modeling**<br>
-*Sida Peng, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, Xiaowei Zhou*<br>
+*Sida Peng, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/#about)*<br>
 Arxiv 2021.[[Paper](https://arxiv.org/abs/2105.02872)][[Project](https://zju3dv.github.io/animatable_nerf/)]
 
 **Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans**<br>
-*Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, Xiaowei Zhou*<br>
+*Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/#about)*<br>
 CVPR 2021.[[Paper](https://arxiv.org/abs/2012.15838)][[[Project](https://zju3dv.github.io/neuralbody/)]
 
 **ST-NeRF: Editable Free-viewpoint Video Using a Layered Neural Representation.**<br>
@@ -64,6 +78,14 @@ SIGGRAPH 2019. [[Paper](https://arxiv.org/abs/1906.07751)][[Project](https://ste
 **High-Fidelity Neural Human Motion Transfer from Monocular Video**<br>
 *Moritz Kappel, Vladislav Golyanik, Mohamed Elgharib, Jann-Ole Henningson, Hans-Peter Seidel, Susana Castillo, Christian Theobalt, Marcus Magnor*<br>
 CVPR 2021 (Oral).[[Paper](https://arxiv.org/abs/2012.10974)][[Project](https://graphics.tu-bs.de/publications/kappel2020high-fidelity)][[Github](https://github.com/MoritzKappel/HF-NHMT)]
+
+**Liquid Warping GAN with Attention: A Uniﬁed Framework for Human Image Synthesis**<br>
+*Wen Liu, Zhixin Piao, Zhi Tu, Wenhan Luo, Lin Ma, Shenghua Gao*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2011.09055)][[Project](https://www.impersonator.org/work/impersonator-plus-plus.html)][[Github](https://github.com/iPERDance/iPERCore)]
+
+**Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis**<br>
+*Wen Liu, Zhixin Piao, Jie Min, Wenhan Luo, Lin Ma, Shenghua Gao*<br>
+ICCV 2019. [[Paper](https://arxiv.org/abs/1909.12224)][[Project](https://svip-lab.github.io/project/impersonator.html)][[Github](https://github.com/svip-lab/impersonator)]
 
 ### Pose Estimation
 
