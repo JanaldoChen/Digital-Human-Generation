@@ -22,6 +22,7 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 - [Graphics, Vision & Video](http://gvv.mpi-inf.mpg.de/index.html)
 - [State Key Lab of CAD & CG, Zhejiang University](http://www.cad.zju.edu.cn/)
 - [Facebook Reality Labs](https://tech.fb.com/ar-vr/)
+- [Broadband Network & Digital Media Lab](http://www.liuyebin.com/index.html)
 
 ## Related Resources
 - [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
@@ -30,6 +31,10 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 
 ## Papers
 ### 3D Human Reconstruction
+
+**DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras**<br>
+*Yang Zheng, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Tao Yu, Qionghai Dai, [Yebin Liu](http://www.liuyebin.com/index.html)*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2105.00261)][[Project](http://www.liuyebin.com/dmc/dmc.html)]
 
 **Real-time Deep Dynamic Characters**<br>
 *Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt*<br>
@@ -62,6 +67,10 @@ CVPR 2020 (Oral). [[Paper](https://arxiv.org/abs/2004.00452)][[Project](https://
 **PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization**<br>
 *Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li*<br>
 ICCV 2019. [[Paper](https://arxiv.org/abs/1905.05172)][[Project](https://shunsukesaito.github.io/PIFu/)][[Github](https://github.com/shunsukesaito/PIFu)]
+
+**TexMesh: Reconstructing Detailed Human Texture and Geometry from RGB-D Video**<br>
+*Tiancheng Zhi, Christoph Lassner, Tony Tung, Carsten Stoll, Srinivasa G. Narasimhan, Minh Vo*<br>
+ECCV 2020. [[Paper](https://arxiv.org/abs/2008.00158)]
 
 **Tex2Shape: Detailed Full Human Body Geometry From a Single Image**<br>
 *Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor*<br>
