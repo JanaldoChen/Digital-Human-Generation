@@ -23,6 +23,7 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 - [State Key Lab of CAD & CG, Zhejiang University](http://www.cad.zju.edu.cn/)
 - [Facebook Reality Labs](https://tech.fb.com/ar-vr/)
 - [Broadband Network & Digital Media Lab](http://www.liuyebin.com/index.html)
+- [Perceiving Systems - Max Planck Institute for Intelligent Systems](https://ps.is.tuebingen.mpg.de/)
 
 ## Related Resources
 - [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
