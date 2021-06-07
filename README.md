@@ -78,6 +78,14 @@ ICCV 2019. [[Paper](https://arxiv.org/abs/1904.08645)][[Project](http://virtualh
 
 ### Neural Scene Representation
 
+**Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control**<br>
+*Lingjie Liu, Marc Habermann, Viktor Rudnev,Kripasindhu Sarkar, Jiatao Gu, Christian Theobalt*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.02019)][[Project](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)]
+
+**NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination**<br>
+*Xiuming Zhang, Pratul P. Srinivasan, Boyang Deng, Paul Debevec, William T. Freeman, Jonathan T. Barron*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.01970)][[Project](https://people.csail.mit.edu/xiuming/projects/nerfactor/)][[Github](https://github.com/google/nerfactor)]
+
 **Animatable Neural Radiance Fields for Human Body Modeling**<br>
 *Sida Peng, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/#about)*<br>
 Arxiv 2021.[[Paper](https://arxiv.org/abs/2105.02872)][[Project](https://zju3dv.github.io/animatable_nerf/)]
