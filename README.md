@@ -116,6 +116,10 @@ SIGGRAPH 2019. [[Paper](https://arxiv.org/abs/1906.07751)][[Project](https://ste
 
 ### Motion Transfer
 
+**StylePeople: A Generative Model of Fullbody Human Avatars**<br>
+*Artur Grigorev, Karim Iskakov, Anastasia Ianina1Renat Bashirov, Ilya Zakharkin, Alexander Vakhitov, Victor Lempitsky*<br>
+CVPR 2021. [[Paper](https://arxiv.org/abs/2104.08363)][[Project](https://saic-violet.github.io/style-people/)]
+
 **High-Fidelity Neural Human Motion Transfer from Monocular Video**<br>
 *Moritz Kappel, Vladislav Golyanik, Mohamed Elgharib, Jann-Ole Henningson, Hans-Peter Seidel, Susana Castillo, Christian Theobalt, Marcus Magnor*<br>
 CVPR 2021 (Oral).[[Paper](https://arxiv.org/abs/2012.10974)][[Project](https://graphics.tu-bs.de/publications/kappel2020high-fidelity)][[Github](https://github.com/MoritzKappel/HF-NHMT)]
