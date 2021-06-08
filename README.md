@@ -79,6 +79,10 @@ ICCV 2019. [[Paper](https://arxiv.org/abs/1904.08645)][[Project](http://virtualh
 
 ### Neural Scene Representation
 
+**SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes**<br>
+*Xu Chen, Yufeng Zheng, Michael J. Black, Otmar Hilliges, Andreas Geiger*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2104.03953)][[Video](https://www.youtube.com/watch?v=rCEpFTKjFHE)]
+
 **Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control**<br>
 *Lingjie Liu, Marc Habermann, Viktor Rudnev,Kripasindhu Sarkar, Jiatao Gu, Christian Theobalt*<br>
 Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.02019)][[Project](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/)]
@@ -110,6 +114,11 @@ CVPR 2021. [[Paper](https://arxiv.org/abs/2011.12948)][[Project](https://nerfies
 **Neural Sparse Voxel Fields**<br>
 *[Lingjie Liu](https://lingjie0206.github.io/), Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt.*<br>
 NeurIPS 2020 (Spotlight). [[Paper](https://arxiv.org/abs/2007.11571)][[Project](https://lingjie0206.github.io/papers/NSVF/)][[Github](https://github.com/facebookresearch/NSVF)]
+
+**NASA: Neural Articulated Shape Approximation**<br>
+*Boyang Deng, JP Lewis, Timothy Jeruzalski, Gerard Pons-Moll, Geoffrey Hinton, Mohammad Norouzi, Andrea Tagliasacchi
+*<br>
+ECCV 2020. [[Paper](https://arxiv.org/abs/1912.03207)][[Project](http://virtualhumans.mpi-inf.mpg.de/nasa/)][[Github](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/nasa)]
 
 **X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation**<br>
 *Mojtaba Bemana, Karol Myszkowski, Hans-Peter Seidel, Tobias Ritschel*<br>
