@@ -134,6 +134,10 @@ SIGGRAPH 2019. [[Paper](https://arxiv.org/abs/1906.07751)][[Project](https://ste
 
 ### Motion Transfer
 
+**SMPLpix: Neural Avatars from 3D Human Models**<br>
+*Sergey Prokudin, Michael J. Black, Javier Romero*<br>
+WACV 2021. [[Paper](https://arxiv.org/abs/2008.06872)][[Github](https://github.com/sergeyprokudin/smplpix)]
+
 **StylePeople: A Generative Model of Fullbody Human Avatars**<br>
 *Artur Grigorev, Karim Iskakov, Anastasia Ianina1Renat Bashirov, Ilya Zakharkin, Alexander Vakhitov, Victor Lempitsky*<br>
 CVPR 2021. [[Paper](https://arxiv.org/abs/2104.08363)][[Project](https://saic-violet.github.io/style-people/)]
