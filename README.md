@@ -103,6 +103,10 @@ Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.01970)][[Project](https://people
 *Sida Peng, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/#about)*<br>
 Arxiv 2021.[[Paper](https://arxiv.org/abs/2105.02872)][[Project](https://zju3dv.github.io/animatable_nerf/)]
 
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**<br>
+*Michael Niemeyer, Andreas Geiger*<br>
+CVPR 2021(Oral, Best paper award). [[Paper](https://arxiv.org/abs/2011.12100)][[Project](https://m-niemeyer.github.io/project-pages/giraffe/index.html)]
+
 **Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans**<br>
 *Sida Peng, Yuanqing Zhang, Yinghao Xu, Qianqian Wang, Qing Shuai, Hujun Bao, [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/#about)*<br>
 CVPR 2021.[[Paper](https://arxiv.org/abs/2012.15838)][[[Project](https://zju3dv.github.io/neuralbody/)]
