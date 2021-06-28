@@ -79,6 +79,14 @@ ICCV 2019. [[Paper](https://arxiv.org/abs/1904.08645)][[Project](http://virtualh
 
 ### Neural Scene Representation
 
+**HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields**<br>
+*Keunhong Park, Utkarsh Sinha, Peter Hedman, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Ricardo Martin-Brualla, Steven M. Seitz*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.13228)][[Project](https://hypernerf.github.io/)]
+
+**DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering**<br>
+*Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.03798)][[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
+
 **SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes**<br>
 *Xu Chen, Yufeng Zheng, Michael J. Black, Otmar Hilliges, Andreas Geiger*<br>
 Arxiv 2021. [[Paper](https://arxiv.org/abs/2104.03953)][[Video](https://www.youtube.com/watch?v=rCEpFTKjFHE)]
