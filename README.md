@@ -33,6 +33,10 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 ## Papers
 ### 3D Human Reconstruction
 
+**DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering**<br>
+*Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.03798)][[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
+
 **DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras**<br>
 *Yang Zheng, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Tao Yu, Qionghai Dai, [Yebin Liu](http://www.liuyebin.com/index.html)*<br>
 Arxiv 2021. [[Paper](https://arxiv.org/abs/2105.00261)][[Project](http://www.liuyebin.com/dmc/dmc.html)]
@@ -82,10 +86,6 @@ ICCV 2019. [[Paper](https://arxiv.org/abs/1904.08645)][[Project](http://virtualh
 **HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields**<br>
 *Keunhong Park, Utkarsh Sinha, Peter Hedman, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Ricardo Martin-Brualla, Steven M. Seitz*<br>
 Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.13228)][[Project](https://hypernerf.github.io/)]
-
-**DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering**<br>
-*Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu*<br>
-Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.03798)][[Project](http://www.liuyebin.com/dbfield/dbfield.html)]
 
 **SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes**<br>
 *Xu Chen, Yufeng Zheng, Michael J. Black, Otmar Hilliges, Andreas Geiger*<br>
