@@ -24,6 +24,8 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 - [Facebook Reality Labs](https://tech.fb.com/ar-vr/)
 - [Broadband Network & Digital Media Lab](http://www.liuyebin.com/index.html)
 - [Perceiving Systems - Max Planck Institute for Intelligent Systems](https://ps.is.tuebingen.mpg.de/)
+- [Yebin Liu: Computational Photography and Reconstruction](http://www.liuyebin.com)
+- [Michael Zollhoefer(Facebook Reality Labs (FRL))](http://zollhoefer.com/index.html)
 
 ## Related Resources
 - [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
@@ -32,6 +34,10 @@ Conference or Journal Year. [[Paper](link)] [[Project](link)] [[Github](link)] [
 
 ## Papers
 ### 3D Human Reconstruction
+
+**ARCH++: Animation-Ready Clothed Human Reconstruction Revisited**<br>
+*Tong He, Yuanlu Xu, Shunsuke Saito, Stefano Soatto, Tony Tung*<br>
+ICCV 2021. [[Paper](https://arxiv.org/abs/2108.07845)][[Project](https://tonghehehe.com/archpp)]
 
 **DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering**<br>
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu*<br>
@@ -83,6 +89,18 @@ ICCV 2019. [[Paper](https://arxiv.org/abs/1904.08645)][[Project](http://virtualh
 
 ### Neural Scene Representation
 
+**CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis**<br>
+*Peng Zhou, Lingxi Xie, Bingbing Ni, Qi Tian*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2110.09788)][[Github](https://github.com/PeterouZh/CIPS-3D)]
+
+**StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis**<br>
+*Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2110.08985)][[Project](http://jiataogu.me/style_nerf/)]
+
+**Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields**<br>
+*Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, Pratul P. Srinivasan*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2103.13415)][[Project](https://jonbarron.info/mipnerf/)]
+
 **HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields**<br>
 *Keunhong Park, Utkarsh Sinha, Peter Hedman, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Ricardo Martin-Brualla, Steven M. Seitz*<br>
 Arxiv 2021. [[Paper](https://arxiv.org/abs/2106.13228)][[Project](https://hypernerf.github.io/)]
@@ -118,6 +136,10 @@ SIGGRAPH 2021. [[Paper](https://arxiv.org/abs/2104.14786)][[Project](https://fra
 **NeX: Real-time View Synthesis with Neural Basis Expansion**<br>
 *Suttisak Wizadwongsa, Pakkapon Phongthawee, Jiraphon Yenphraphai, Supasorn Suwajanakorn*<br>
 CVPR 2021 (Oral). [[Paper](https://arxiv.org/abs/2103.05606)][[Project](https://nex-mpi.github.io/)][[Github](https://github.com/nex-mpi/nex-code/)]
+
+**π-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis**<br>
+*Eric R. Chan, Marco Monteiro, Petr Kellnhofer, Jiajun Wu, Gordon Wetzstein*<br>
+CVPR 2021 (Oral). [[Paper](https://arxiv.org/abs/2012.00926)][[Project](https://marcoamonteiro.github.io/pi-GAN-website/)][[Github](https://github.com/marcoamonteiro/pi-GAN)]
 
 **Nerfies: Deformable Neural Radiance Fields**<br>
 *Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo Martin-Brualla*<br>
