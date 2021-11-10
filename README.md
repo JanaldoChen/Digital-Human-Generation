@@ -97,6 +97,14 @@ Arxiv 2021. [[Paper](https://arxiv.org/abs/2110.09788)][[Github](https://github.
 *Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt*<br>
 Arxiv 2021. [[Paper](https://arxiv.org/abs/2110.08985)][[Project](http://jiataogu.me/style_nerf/)]
 
+**Neural Rays for Occlusion-aware Image-based Rendering**<br>
+*Yuan Liu, Sida Peng, Lingjie Liu, Qianqian Wang, Peng Wang, Christian Theobalt, Xiaowei Zhou, Wenping Wang*<br>
+Arxiv 2021. [[Paper](https://arxiv.org/abs/2107.13421)][[Project](https://liuyuan-pal.github.io/NeuRay/)]
+
+**NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction**<br>
+*Peng Wang, Lingjie Liu, Yuan Liu, Christian Theobalt, Taku Komura, Wenping Wang*<br>
+NeurIPS 2021 (Spotlight). [[Paper](https://arxiv.org/abs/2106.10689)][[Project](https://lingjie0206.github.io/papers/NeuS/)][[Github](https://github.com/Totoro97/NeuS)]
+
 **Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, Pratul P. Srinivasan*<br>
 Arxiv 2021. [[Paper](https://arxiv.org/abs/2103.13415)][[Project](https://jonbarron.info/mipnerf/)]
